@@ -1,0 +1,5 @@
+/kernel-method-mva/*.csv
+*.so
+*.o
+*.c
+/high-dim-stats/numerical_code/fdrlasso_notebook.ipynb
