@@ -1,4 +1,4 @@
-/kernel-method-mva/*.csv
+/kernel-method-mva/data/*.csv
 *.so
 *.o
 *.c
